@@ -1,0 +1,17 @@
+database
+
+tabel product
+id judul deskripsi gambar
+
+tabel galeri
+id deskripsi gambar
+
+tabel admin
+usernama password 
+
+
+UI USER revisi
+
+-halaman about us
+
+-pembuatan artikel
